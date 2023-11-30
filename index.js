@@ -1,1 +1,1 @@
-document.write("coba nulis disini test")
+document.write("coba nulis disini test dari index js")
